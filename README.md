@@ -41,4 +41,9 @@ This project was developed by us , Team <b>Green Guardians</b> as a submission f
        
  </ol>
 
+ <h2>Description</h2>
+ <h3>Naturify is a web app  , like a great platform for promoting environmental awareness and facilating donations for nature related causes. 
+ provided facts,Graphs , data and climate related news user user understanding.The inclusion of a payment gateway for donations is a smart move and ensuring login authenticity add a layer of security
+ and trust. its  a comprehensive platform with a clear mission to transform our environment </h3>
+
 
