@@ -1,0 +1,70 @@
+/*
+layouts from the bootstrap example section of HEROES for header part
+Next FEATURES
+next JUMBOTRONS
+next PRICING PLAN
+Next FOOTERS
+
+
+we change the code in buttom class from (primary) to (light)  
+and (secondary) to (light)
+
+<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+p stand for padding 
+y stands for y axis
+
+<div class="container mt-3">
+mt - means margin top
+
+<div class="col-lg-3 col-sm-12">
+here col-lg-3 means large col and three in large screen like laptop
+col-sm-12 means 12 small col for mobile
+
+
+ <ul class="flex">
+                    <li class="hover-link nav-item" id="ipl" onclick="onNavItemClick('ipl')">IPL</li>
+                    <li class="hover-link nav-item" id="finance" onclick="onNavItemClick('finance')">Finance</li>
+                    <li class="hover-link nav-item" id="politics" onclick="onNavItemClick('politics')">Politics</li>
+                </ul>
+
+
+                https://via.placeholder.com/400x200
+
+                let curSelectedNav = null;
+function onNavItemClick(id) {
+    fetchNews(id);
+    const navItem = document.getElementById(id);
+    curSelectedNav?.classList.remove("active");
+    curSelectedNav = navItem;
+    curSelectedNav.classList.add("active");
+}
+
+
+  curSelectedNav?.classList.remove("active");
+    curSelectedNav = null;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
