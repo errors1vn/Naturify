@@ -10,7 +10,8 @@ This project was developed by us , Team <b>Green Guardians</b> as a submission f
   <li>MD AADIL RIZWAN</li>
   <li>SAHIL RAJA</li>
  </ol>
- <h2>Tech stack/h2>
+ <h2>Tech stack</h2>
+ 
  <ol>
   <li>Frontend</li>
   <ul>
